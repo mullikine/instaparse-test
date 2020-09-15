@@ -7,3 +7,5 @@
 	     AB = A B
 	     A = 'a'+
 	     B = 'b'+"))
+
+(as-and-bs "aaaaabbbaaaabb")
